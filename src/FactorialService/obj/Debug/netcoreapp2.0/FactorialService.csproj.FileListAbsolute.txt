@@ -1,0 +1,14 @@
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.deps.json
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.runtimeconfig.json
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.runtimeconfig.dev.json
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.dll
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.pdb
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.csprojResolveAssemblyReference.cache
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.csproj.CoreCompileInputs.cache
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.AssemblyInfoInputs.cache
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.AssemblyInfo.cs
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.dll
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.pdb
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.Models.dll
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\bin\Debug\netcoreapp2.0\FactorialService.Models.pdb
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService\obj\Debug\netcoreapp2.0\FactorialService.csproj.CopyComplete

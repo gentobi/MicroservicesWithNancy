@@ -1,0 +1,8 @@
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\obj\Debug\netstandard2.0\FactorialService.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\obj\Debug\netstandard2.0\FactorialService.Models.AssemblyInfoInputs.cache
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\obj\Debug\netstandard2.0\FactorialService.Models.AssemblyInfo.cs
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\bin\Debug\netstandard2.0\FactorialService.Models.deps.json
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\bin\Debug\netstandard2.0\FactorialService.Models.dll
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\bin\Debug\netstandard2.0\FactorialService.Models.pdb
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\obj\Debug\netstandard2.0\FactorialService.Models.dll
+C:\Users\Tan Nguyen\Desktop\Microservices\MicroservicesWithNancy\src\FactorialService.Models\obj\Debug\netstandard2.0\FactorialService.Models.pdb
